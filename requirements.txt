@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+python-dotenv
+langchain
+langchain-openai
+langchain-community
+langgraph
+edge-tts
+PyPDF2
+typing-extensions
+scipy
+sounddevice
+speechrecognition
+openai
